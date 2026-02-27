@@ -32,3 +32,12 @@ public class MathDemo {
         return result;
     }
 }
+/*
+The advantage of defining these methods as static is that
+we can use them without creating an object of the class.
+Since the methods in MathDemo only perform mathematical
+calculations and do not depend on any object data, it 
+is easier and more practical to make them static. This
+allows us to call them directly using the class name,
+such as MathDemo.min(5, 3)
+ */
