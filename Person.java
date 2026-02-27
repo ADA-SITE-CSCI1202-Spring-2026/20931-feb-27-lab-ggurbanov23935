@@ -33,3 +33,4 @@ public class Person {
                gender.equals(p.gender);
     }
 }
+// this class defines a person with basic attributes and methods.

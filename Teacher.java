@@ -33,3 +33,4 @@ public class Teacher extends Person {
         return true;
     }
 }
+// this class extends person and represents a teacher with additional attributes and methods.
